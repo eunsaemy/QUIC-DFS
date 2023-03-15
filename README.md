@@ -1,3 +1,4 @@
 # QUIC-DFS
 
-### pip install aioquic
+- pip install aioquic
+- python -m pip install Django
